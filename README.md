@@ -190,6 +190,8 @@ app.js:18 PWCChild(pass count)_withcallback mount.
 app.js:18 PWCChild(pass count)_withmemo mount.
 ```
 
+![Sample](https://github.com/markomatic/component-within-function-component-experiment/blob/main/sample.gif?raw=true)
+
 ## Conclusion
 
 Although it's not suggested to use HOC, but rather hooks in case of function component (as any HOC can be replaced by a hook), if someone wants to use HOC from the legacy reasons, they should still be able to if:
